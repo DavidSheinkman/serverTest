@@ -4,13 +4,44 @@ const app = express();
 const PORT = process.env.PORT || 3030;
 
 const Pictures = [
-  {
-    id: 1,
-    url: "https://pixabay.com/get/g6542eed32ac7e4553b78cad50cc68e8794c09ce450911dbaa070b65495f4c3cab269b120ba898a1a428e44a61f358a2e_640.jpg",
-    artist: "Larisa-K",
-    title: "Yellow Flowers",
-    resolution: "640x426",
-    weight: "230 KB"
+  { id: 1,
+    name: "Flamingo",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Phoenicopteriformes",
+      "family": "Phoenicopteridae",
+      "genus": "Phoenicopterus"
+    },
+    "locations": [
+      "Africa",
+      "Asia",
+      "Central-America",
+      "Eurasia",
+      "Europe",
+      "North-America",
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Algae, Fish, Insects",
+      "distinctive_feature": "Long, curved beak and sleep standing on one leg",
+      "wingspan": "100cm - 180cm (59in - 71in)",
+      "habitat": "Large lakes and plant less lagoons",
+      "predators": "Human, Eagles, Wild dogs",
+      "diet": "Omnivore",
+      "lifestyle": "Flock",
+      "favorite_food": "Algae",
+      "type": "Bird",
+      "average_clutch_size": "1",
+      "slogan": "Sleeps on just one leg!",
+      "color": "BlueWhiteOrangePink",
+      "skin_type": "Feathers",
+      "top_speed": "31 mph",
+      "lifespan": "15 - 30 years",
+      "weight": "2kg - 4kg (4.4lbs - 8.8lbs)",
+      "height": "100cm - 150cm (39in - 59in)"
+    }
   },
   {
     id: 2,
@@ -67,6 +98,50 @@ const Pictures = [
     title: "rose, flower, flower wallpaper",
     resolution: "640x426",
     weight: "250 KB"
+  },
+  {
+    id: 9,
+    name: "Cheetah",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Acinonyx",
+      "scientific_name": "Acinonyx jubatus"
+    },
+    "locations": [
+      "Africa",
+      "Asia",
+      "Eurasia"
+    ],
+    "characteristics": {
+      "prey": "Gazelle, Wildebeest, Hare",
+      "name_of_young": "Cub",
+      "group_behavior": "Solitary/Pairs",
+      "estimated_population_size": "8,500",
+      "biggest_threat": "Habitat loss",
+      "most_distinctive_feature": "Yellowish fur covered in small black spots",
+      "gestation_period": "90 days",
+      "habitat": "Open grassland",
+      "diet": "Carnivore",
+      "average_litter_size": "3",
+      "lifestyle": "Diurnal",
+      "common_name": "Cheetah",
+      "number_of_species": "5",
+      "location": "Asia and Africa",
+      "slogan": "The fastest land mammal in the world!",
+      "group": "Mammal",
+      "color": "BrownYellowBlackTan",
+      "skin_type": "Fur",
+      "top_speed": "70 mph",
+      "lifespan": "10 - 12 years",
+      "weight": "40kg - 65kg (88lbs - 140lbs)",
+      "height": "115cm - 136cm (45in - 53in)",
+      "age_of_sexual_maturity": "20 - 24 months",
+      "age_of_weaning": "3 months"
+    }
   }
 ];
 
