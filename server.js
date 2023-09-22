@@ -100,7 +100,7 @@ const Pictures = [
     },
     locations: ["Asia"],
     characteristics: {
-      main_prey: "Fruit, Eggs, Insects",
+      prey: "Fruit, Eggs, Insects",
       habitat: "Dense forest and jungle",
       predators: "Leopards, Snakes, Birds Of Prey",
       diet: "Omnivore",
@@ -1563,7 +1563,7 @@ const Pictures = [
     },
     locations: ["Central-America", "South-America"],
     characteristics: {
-      main_prey: "Insects and small lizards",
+      prey: "Insects and small lizards",
       habitat: "Deserts and Tropical Rainforests",
       predators: "Coyotes, Mountain Lions and Jaguars",
       diet: "Omnivore",
@@ -1730,7 +1730,7 @@ const Pictures = [
       "South-America",
     ],
     characteristics: {
-      main_prey: "Fish, Crabs, Frogs",
+      prey: "Fish, Crabs, Frogs",
       habitat: "River banks, lakes and streams",
       predators: "Birds, Fox, Wolves",
       diet: "Carnivore",
@@ -1769,7 +1769,7 @@ const Pictures = [
       "South-America",
     ],
     characteristics: {
-      main_prey: "Fish, Crabs, Frogs",
+      prey: "Fish, Crabs, Frogs",
       habitat: "River banks, lakes and streams",
       predators: "Birds, Fox, Wolves",
       diet: "Carnivore",
@@ -1877,7 +1877,7 @@ const Pictures = [
       "South-America",
     ],
     characteristics: {
-      main_prey: "Deer, Elk, Moose",
+      prey: "Deer, Elk, Moose",
       habitat: "Grass plains and woodland",
       predators: "Human",
       diet: "Carnivore",
@@ -2134,7 +2134,7 @@ const Pictures = [
     },
     locations: ["Africa"],
     characteristics: {
-      main_prey: "Grass, Roots, Seeds, Flowers",
+      prey: "Grass, Roots, Seeds, Flowers",
       distinctive_feature: "Small wings and long neck and legs",
       wingspan: "1.5m - 2m (4.9ft - 6.5ft)",
       habitat: "Desert and savanna areas",
@@ -2289,7 +2289,7 @@ const Pictures = [
     },
     locations: ["Africa"],
     characteristics: {
-      main_prey: "Grass, Leaves, Shoots",
+      prey: "Grass, Leaves, Shoots",
       habitat: "Grass plains and bush covered savanna",
       predators: "Lion, Cheetah, Crocodile",
       diet: "Herbivore",
@@ -2360,7 +2360,7 @@ const Pictures = [
     },
     locations: ["Africa"],
     characteristics: {
-      main_prey: "Grass, Fruit, Berries, Leaves",
+      prey: "Grass, Fruit, Berries, Leaves",
       habitat: "Tropical bushland, grassland and savannas",
       predators: "Human, Wild cats",
       diet: "Herbivore",
@@ -2389,7 +2389,7 @@ const Pictures = [
     },
     locations: ["Asia", "Eurasia", "Europe", "North-America"],
     characteristics: {
-      main_prey: "Acorns, Fruit, Grass",
+      prey: "Acorns, Fruit, Grass",
       distinctive_feature: "Long ears and some male species have antlers",
       habitat: "Dense forest and planted areas",
       diet: "Herbivore",
@@ -2427,7 +2427,7 @@ const Pictures = [
       "South-America",
     ],
     characteristics: {
-      main_prey: "Nectar, Pollen, Honey",
+      prey: "Nectar, Pollen, Honey",
       habitat: "Quiet forests and pastures",
       diet: "Herbivore",
       average_litter_size: "100",
