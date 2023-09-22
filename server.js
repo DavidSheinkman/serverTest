@@ -179,7 +179,7 @@ const Pictures = [
     },
     locations: ["Africa"],
     characteristics: {
-      main_prey: "Fruit, Leaves, Insects",
+      prey: "Fruit, Leaves, Insects",
       habitat: "Dry forest and tropical jungle",
       predators: "Hawk, Fossa, Wild dogs",
       diet: "Omnivore",
@@ -252,7 +252,7 @@ const Pictures = [
       "South-America"
     ],
     "characteristics": {
-      "main_prey": "Fruit, Nuts, Leaves",
+      "prey": "Fruit, Nuts, Leaves",
       "habitat": "Tropical jungle and rainforest",
       "predators": "Human, Eagles, Jaguar",
       "diet": "Omnivore",
@@ -456,7 +456,7 @@ const Pictures = [
       "Asia"
     ],
     "characteristics": {
-      "main_prey": "Deer, Cattle, Wild Boar",
+      "prey": "Deer, Cattle, Wild Boar",
       "habitat": "Dense tropical forest",
       "predators": "Human",
       "diet": "Carnivore",
@@ -530,7 +530,7 @@ const Pictures = [
       "Oceania"
     ],
     "characteristics": {
-      "main_prey": "Insects, Mice, Leaves",
+      "prey": "Insects, Mice, Leaves",
       "distinctive_feature": "Pronounced beard when scared and morphs skin colour",
       "habitat": "Arid forest and desert",
       "predators": "Birds, Snakes, Crocodiles",
@@ -566,7 +566,7 @@ const Pictures = [
       "Europe"
     ],
     "characteristics": {
-      "main_prey": "Mice, Vole, Insects",
+      "prey": "Mice, Vole, Insects",
       "distinctive_feature": "Large eyes and fantastic hearing",
       "wingspan": "81cm - 105cm (32in - 41in)",
       "habitat": "Dense forest and open woodland",
@@ -675,7 +675,7 @@ const Pictures = [
       "Oceania"
     ],
     "characteristics": {
-      "main_prey": "Insects, Grass, Fungi",
+      "prey": "Insects, Grass, Fungi",
       "distinctive_feature": "Sharp claws and horn-like crest",
       "wingspan": "Wings are tiny",
       "incubation_period": "49 to 52 days",
@@ -710,7 +710,7 @@ const Pictures = [
       "Oceania"
     ],
     "characteristics": {
-      "main_prey": "Grass, Seeds, Flowers",
+      "prey": "Grass, Seeds, Flowers",
       "habitat": "Dry forests, desert and grassland",
       "predators": "Human, Dingo",
       "diet": "Omnivore",
@@ -836,7 +836,7 @@ const Pictures = [
       "South-America"
     ],
     "characteristics": {
-      "main_prey": "Fish, Crabs, Frogs",
+      "prey": "Fish, Crabs, Frogs",
       "habitat": "River banks, lakes and streams",
       "predators": "Birds, Fox, Wolves",
       "diet": "Carnivore",
@@ -869,7 +869,7 @@ const Pictures = [
       "Ocean"
     ],
     "characteristics": {
-      "main_prey": "Eggs, Fruit, Insects",
+      "prey": "Eggs, Fruit, Insects",
       "habitat": "Thick forest and tropical jungles",
       "predators": "Human, Snakes, Wildcats",
       "diet": "Omnivore",
@@ -904,7 +904,7 @@ const Pictures = [
       "North-America"
     ],
     "characteristics": {
-      "main_prey": "Fish, Fruit, Insects",
+      "prey": "Fish, Fruit, Insects",
       "distinctive_feature": "Powerful forearms and hibernate in the winter",
       "habitat": "Forest and mountainous regions",
       "predators": "Human, Wolf, Cougar",
@@ -983,7 +983,7 @@ const Pictures = [
       "South-America"
     ],
     "characteristics": {
-      "main_prey": "Fruit, Nuts, Seeds",
+      "prey": "Fruit, Nuts, Seeds",
       "habitat": "Rainforest and dense jungle",
       "predators": "Jaguar, Snakes, Birds",
       "diet": "Omnivore",
@@ -1102,7 +1102,7 @@ const Pictures = [
       "Africa"
     ],
     "characteristics": {
-      "main_prey": "Fruit, Roots, Insects",
+      "prey": "Fruit, Roots, Insects",
       "habitat": "Dense and coastal tropical forests",
       "predators": "Leopard, Eagles, Snakes",
       "diet": "Omnivore",
@@ -1133,7 +1133,7 @@ const Pictures = [
       "South-America"
     ],
     "characteristics": {
-      "main_prey": "Insects, Fruit, Leaves",
+      "prey": "Insects, Fruit, Leaves",
       "habitat": "Lowland tropical rainforest near water",
       "predators": "Hawk, Eagle, Snakes",
       "diet": "Omnivore",
@@ -1209,7 +1209,7 @@ const Pictures = [
       "Asia"
     ],
     "characteristics": {
-      "main_prey": "Grass, Fruit, Roots",
+      "prey": "Grass, Fruit, Roots",
       "distinctive_feature": "Long trunk and large feet",
       "habitat": "Rainforest and tropical woodland",
       "predators": "Human, Tiger",
