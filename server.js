@@ -258,6 +258,7 @@ const Pictures = [
   {
     id: 8,
     name: "African Penguin",
+    imgURL:"https://global-uploads.webflow.com/5e26c6af6f517b92c1a93455/5f3e2f645702bd1ffa71fed2_%D7%A4%D7%99%D7%A0%D7%92%D7%95%D7%95%D7%99%D7%9F-%D7%A9%D7%97%D7%95%D7%A8-%D7%A8%D7%92%D7%9C_%D7%A9%D7%99-%D7%91%D7%9F-%D7%A2%D7%9E%D7%99.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
