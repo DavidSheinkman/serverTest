@@ -50,7 +50,7 @@ const Pictures = [
   {
     id: 2,
     name: "CHANGE LATER",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -122,7 +122,7 @@ const Pictures = [
   {
     id: 4,
     name: "CHANGE LATER",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -193,7 +193,7 @@ const Pictures = [
   {
     id: 6,
     name: "CHANGE LATER",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -507,7 +507,7 @@ const Pictures = [
   {
     id: 14,
     name: "CHANGE LATER",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -616,7 +616,7 @@ const Pictures = [
   {
     id: 17,
     name: "Fruit Bat",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -752,7 +752,7 @@ const Pictures = [
   {
     id: 21,
     name: "CHANGE LATER",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -781,7 +781,7 @@ const Pictures = [
   {
     id: 22,
     name: "CHANGE LATER",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -810,7 +810,7 @@ const Pictures = [
   {
     id: 23,
     name: "CHANGE LATER",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -839,7 +839,7 @@ const Pictures = [
   {
     id: 24,
     name: "Gazelle",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -964,7 +964,7 @@ const Pictures = [
   {
     id: 27,
     name: "Indian Palm Squirrel",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -995,7 +995,7 @@ const Pictures = [
   {
     id: 28,
     name: "CHANGE LATER",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -1059,7 +1059,7 @@ const Pictures = [
   {
     id: 30,
     name: "CHANGE LATER",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -1208,7 +1208,7 @@ const Pictures = [
   {
     id: 34,
     name: "Pine Marten",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -1351,7 +1351,7 @@ const Pictures = [
   {
     id: 38,
     name: "CHANGE LATER",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -1395,7 +1395,7 @@ const Pictures = [
   {
     id: 39,
     name: "CHANGE LATER",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -1762,7 +1762,7 @@ const Pictures = [
   {
     id: 48,
     name: "Otter",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -1802,7 +1802,7 @@ const Pictures = [
   {
     id: 49,
     name: "Otter",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -1875,7 +1875,7 @@ const Pictures = [
   {
     id: 51,
     name: "Pine Marten",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -2160,7 +2160,7 @@ const Pictures = [
   {
     id: 58,
     name: "Oryx",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -2350,7 +2350,7 @@ const Pictures = [
   {
     id: 63,
     name: "Wildebeest",
-    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
