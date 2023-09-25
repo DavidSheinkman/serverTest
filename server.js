@@ -50,6 +50,7 @@ const Pictures = [
   {
     id: 2,
     name: "CHANGE LATER",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -121,6 +122,7 @@ const Pictures = [
   {
     id: 4,
     name: "CHANGE LATER",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -191,6 +193,7 @@ const Pictures = [
   {
     id: 6,
     name: "CHANGE LATER",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -504,6 +507,7 @@ const Pictures = [
   {
     id: 14,
     name: "CHANGE LATER",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -612,6 +616,7 @@ const Pictures = [
   {
     id: 17,
     name: "Fruit Bat",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -621,6 +626,7 @@ const Pictures = [
     },
     locations: ["Africa", "Asia", "Oceania", "South-America"],
     characteristics: {
+      prey: "change later, change later, change later",
       name_of_young: "Pups",
       group_behavior: "Colony",
       estimated_population_size: "Unknown",
@@ -658,6 +664,7 @@ const Pictures = [
     },
     locations: ["Asia", "Oceania"],
     characteristics: {
+      prey: "change later, change later, change later",
       name_of_young: "Chicks or hatchlings",
       group_behavior: "Flock",
       most_distinctive_feature: "Crest of feathers on the head",
@@ -745,6 +752,7 @@ const Pictures = [
   {
     id: 21,
     name: "CHANGE LATER",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -773,6 +781,7 @@ const Pictures = [
   {
     id: 22,
     name: "CHANGE LATER",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -801,6 +810,7 @@ const Pictures = [
   {
     id: 23,
     name: "CHANGE LATER",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -829,6 +839,7 @@ const Pictures = [
   {
     id: 24,
     name: "Gazelle",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -840,6 +851,7 @@ const Pictures = [
     },
     locations: ["Africa", "Asia"],
     characteristics: {
+      prey: "change later, change later, change later",
       name_of_young: "fawns",
       group_behavior: "Herd",
       estimated_population_size: "<500",
@@ -952,6 +964,7 @@ const Pictures = [
   {
     id: 27,
     name: "Indian Palm Squirrel",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -982,6 +995,7 @@ const Pictures = [
   {
     id: 28,
     name: "CHANGE LATER",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -1045,6 +1059,7 @@ const Pictures = [
   {
     id: 30,
     name: "CHANGE LATER",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -1193,6 +1208,7 @@ const Pictures = [
   {
     id: 34,
     name: "Pine Marten",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -1335,6 +1351,7 @@ const Pictures = [
   {
     id: 38,
     name: "CHANGE LATER",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -1378,6 +1395,7 @@ const Pictures = [
   {
     id: 39,
     name: "CHANGE LATER",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -1507,6 +1525,7 @@ const Pictures = [
     },
     locations: ["Africa"],
     characteristics: {
+      prey: "change later, change later, change later",
       name_of_young: "Pup",
       group_behavior: "Colony",
       estimated_population_size: "Unknown, but they are of Least Concern",
@@ -1621,6 +1640,7 @@ const Pictures = [
     },
     locations: ["Asia", "South-America"],
     characteristics: {
+      prey: "change later, change later, change later",
       name_of_young: "Calf",
       group_behavior: "Solitary",
       estimated_population_size:
@@ -1742,6 +1762,7 @@ const Pictures = [
   {
     id: 48,
     name: "Otter",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -1781,6 +1802,7 @@ const Pictures = [
   {
     id: 49,
     name: "Otter",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -1853,6 +1875,7 @@ const Pictures = [
   {
     id: 51,
     name: "Pine Marten",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -1941,6 +1964,7 @@ const Pictures = [
     },
     locations: ["Africa", "Asia", "Europe", "North-America", "South-America"],
     characteristics: {
+      prey: "change later, change later, change later",
       name_of_young: "Kid",
       group_behavior: "Herd",
       estimated_population_size: "30,000 for alpine ibex",
@@ -1980,6 +2004,7 @@ const Pictures = [
     },
     locations: ["Africa"],
     characteristics: {
+      prey: "change later, change later, change later",
       name_of_young: "Calf",
       group_behavior: "Gregarious",
       estimated_population_size: "30,000, conservation status is least concern",
@@ -2026,6 +2051,7 @@ const Pictures = [
     },
     locations: ["Africa", "Asia"],
     characteristics: {
+      prey: "change later, change later, change later",
       name_of_young: "fawns",
       group_behavior: "Herd",
       estimated_population_size: "<500",
@@ -2074,6 +2100,7 @@ const Pictures = [
       "South-America",
     ],
     characteristics: {
+      prey: "change later, change later, change later",
       name_of_young: "Fawn",
       group_behavior: "Solitary/Herd",
       estimated_population_size: "Over 100,000",
@@ -2133,6 +2160,7 @@ const Pictures = [
   {
     id: 58,
     name: "Oryx",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
@@ -2208,6 +2236,7 @@ const Pictures = [
     },
     locations: ["Africa"],
     characteristics: {
+      prey: "change later, change later, change later",
       name_of_young: "Calf",
       group_behavior: "Social",
       estimated_population_size: "Less than 500 in the wild",
@@ -2321,6 +2350,7 @@ const Pictures = [
   {
     id: 63,
     name: "Wildebeest",
+    imgURL: "https://www.marylandzoo.org/wp-content/uploads/2017/10/Cheetah-Profile-1.jpg7%A9.jpg",
     taxonomy: {
       kingdom: "Animalia",
       phylum: "Chordata",
