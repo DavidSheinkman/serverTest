@@ -8,7 +8,8 @@ const PORT = process.env.PORT || 5000;
 const mongoURI = 'mongodb+srv://david:Poilkjmnb!@cluster0.yshjcqa.mongodb.net/zoo?retryWrites=true&w=majority';
 
 // Create a MongoDB client instance and connect to the database
-const client = new MongoClient(mongoURI, { useUnifiedTopology: true });
+const client = new MongoClient(mongoURI);
+
 
 async function startServer() {
   try {
