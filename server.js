@@ -32,11 +32,11 @@ app.get("/api/:id", async (req, res) => {
     if (result) {
       res.json(result);
     } else {
-      res.status(404).json({ message: "Meetup not found" , error: error.message});
+      res.status(404).json({ message: "Meetup not found" });
     }
   } catch (error) {
     console.error("Error:", error);
-    res.status(500).json({ message: "Internal Server Error" });
+    res.status(500).json({ message: "Internal Server Error", error: error.message });
   }
 });
 
