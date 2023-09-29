@@ -28,6 +28,8 @@ app.get("/api/:id", async (req, res) => {
     const animals = db.collection('animals');
     console.log(animals);
 
+    
+
     const query = { ["id"]: meetupId };
     const result = await animals.findOne(query);
     console.log(result);
