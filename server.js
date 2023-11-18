@@ -10,16 +10,16 @@ const mongoDBConnectionString =
   "mongodb+srv://david:Poilkjmnb!@cluster0.yshjcqa.mongodb.net/zoo?retryWrites=true&w=majority";
 
 //get all animals
-app.get("/api", async (req, res) => {
+app.get("/api", async (res) => {
   try {
     const client = await MongoClient.connect(mongoDBConnectionString);
     const db = client.db();
 
     const animals = db.collection("animals");
-    const result = await animals.insertOne(req.body);
+    const result = await animals.find().toArray();
     client.close();
 
-    res.json(result.ops[0]);
+    res.json(result);
   } catch (error) {
     console.error("Error:", error);
     res
