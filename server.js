@@ -10,7 +10,7 @@ const mongoDBConnectionString =
   "mongodb+srv://david:Poilkjmnb!@cluster0.yshjcqa.mongodb.net/zoo?retryWrites=true&w=majority";
 
 //get all animals
-app.post("/api", async (req, res) => {
+app.get("/api", async (req, res) => {
   try {
     const client = await MongoClient.connect(mongoDBConnectionString);
     const db = client.db();
